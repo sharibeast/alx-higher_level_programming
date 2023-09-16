@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def search_replace(mylist,search,replace):
+def search_replace(mylist, search, replace):
     created_list = []
     for x in mylist:
         if x == search:
@@ -7,4 +7,3 @@ def search_replace(mylist,search,replace):
         else:
             created_list.append(x)
     return created_list
-
