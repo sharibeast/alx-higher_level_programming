@@ -3,6 +3,7 @@
 A function to read a text file (utf8) and print to stdout
 """
 
+
 def read_file(filename):
     """
     A functon to read a text file (utf8) and print to stdout
